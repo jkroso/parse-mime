@@ -1,0 +1,22 @@
+{
+  "name": "parse-mime",
+  "version": "0.1.0",
+  "description": "A centralized parsing module that can be extended to handle any mime type",
+  "keywords": ["parse","mime"],
+  "dependencies": {
+    "qs": "*"
+  },
+  "devDependencies": {
+    "assert": "jkroso/assert",
+    "serve": "jkroso/serve",
+    "hydro-html": "*",
+    "hydro-bdd": "*",
+    "hydro-dot": "*",
+    "hydro": "*",
+    "jsmd": "*"
+  },
+  "repository": "git://github.com/jkroso/parse-mime.git",
+  "author": "Jake Rosoman",
+  "files": ["index.js"],
+  "license": "MIT"
+}
